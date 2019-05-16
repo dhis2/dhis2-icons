@@ -1,0 +1,313 @@
+male_and_female,Male and Female icon,man and female,,,,
+female_and_male,Female and Male adult,,,,,
+man,,male,boy,man,,
+woman,,female,girl,woman,,
+syringe,,syringe,vaccination,injectable,,
+microscope,Optical Microscope,microscope,laboratory,lab,analysis,
+tac,Computed axial tomography,,,,,
+neurology,,mental health,meningitis,,,
+mental_disorders,mental_disorders,mental health,mental disorder,,,
+clinical_a,Clinical analysis,,,,,
+clinical_f,Clinical file,medical history,diagnosis test,Clinical file,patient record,
+clinical_fe,Edit clinical file,medical history,diagnosis test,,,
+cardiogram,Cardiogram card,medical history,,,,
+cardiogram_e,Edit ardiogram card,cardiogram,Cardiogram card,,,
+heart_cardiogram,Heart - cardiogram,heart,electrocardiogram,,,
+blood_pressure,,Blood Pressure,,,,
+pregnant,ANC,pregnant,ANC,maternity,,
+pregnant_0812w,ANC,pregnant,ANC,maternity,First visit 8-12 weeks,
+pregnant_2426w,ANC,pregnant,ANC,maternity,Second visit 24-26 weeks,
+pregnant_32w,ANC,pregnant,ANC,maternity,Third visit 32 weeks,
+pregnant_3638w,ANC,pregnant,ANC,maternity,Fourth visit 36-38 weeks,
+baby_male_0203m,,baby,female,2-3 months,pediatric,
+baby_male_0306m,,baby,female,3-6 months,pediatric,
+baby_male_0609m,,baby,female,6-9 months,pediatric,
+baby_female_0203m,,baby,male,2-3 months,pediatric,
+baby_female_0306m,,baby,male,3-6 months,pediatric,
+baby_female_0609m,,baby,male,6-9 months,pediatric,
+boy_0105y,,boy,1-5 Yrs,,,
+boy_0510y,,boy,5-10 Yrs,,,
+boy_1015y,,boy,10-15 Yrs,,,
+boy_1525y,,boy,15-25 Yrs,,,
+girl_0105y,,girl,1-5 Yrs,,,
+girl_0510y,,girl,5-10 Yrs,,,
+girl_1015y,,girl,10-15 Yrs,,,
+girl_1525y,,girl,15-25 Yrs,,,
+fetus,,not born,baby,,,
+lactation,,baby,ANC,child,pediatric,
+llin,,llin,malaria,net,,
+pill_1,,One pill,pills 1,,,
+pills_2,,pills,two,,,
+pills_3,,pills,three,,,
+pills_4,,pills,four,,,
+medicines,,treatment,medicines,,,
+mosquito,,malaria,mosquito,denge,,
+cholera,,cholera,vibrio cholerae,,,
+malaria_outbreak,malaria outbreak,outbreak,malaria,midge,denge,
+vomiting,,sickness,ailment,threw-up,vomiting,
+hot_meal,,food,hot meal,,,
+water_treatment,,water,water treatment,,,
+spraying,,spraying,,,,
+letrina,,letrina,,,,
+odontology,,odontology,,,,
+odontology_implant,,implant,odontology,,,
+male_condom,,copper IUD,contraception,reproductive,sexual,
+female_condom,,female,contraception,reproductive,sexual,condom
+copper_iud,,copper iud,contraception,reproductive,sexual,copper
+iud,,iud,contraception,reproductive,sexual,iud
+implant ,,implant,contraception,reproductive,sexual,pellet
+surgical_sterilization,,contraception,reproductive,sexual,sterilization,circusicion
+hormonal_ring,,contraception,reproductive,sexual,sterilization,hormonal ring
+contraceptive_injection,,female,contraception,reproductive,sexual,inyectable
+contraceptive_patch,,female,contraception,reproductive,sexual,
+contraceptive_diaphragm,,female,contraception,reproductive,sexual,
+sayana_press,,female,contraception,reproductive,sexual,inyectable
+circle_large,,,,,,
+circle_medium,,,,,,
+circle_small,,,,,,
+triangle_large,,,,,,
+triangle_medium,,,,,,
+triangle_small,,,,,,
+square_large,,,,,,
+square_medium,,,,,,
+square_small,,,,,,
+star_large,,,,,,
+star_medium,,,,,,
+star_small,,,,,,
+family_planning,,family planning,contraception,reproductive,sexual,
+sexual_reproductive_health,,sexual,contraception,sexual,reproductive,
+cervical_cancer,,cancer,cervical,female,,
+female_sex_worker,,female,sex worker,,,
+male_sex_worker,,male,sex worker,,,
+msm,,msm,,,,
+pwid,,pwid,,,,
+transgender,,transgender,,,,
+truck_driver,,truck driver,driver,worker,,
+miner_worker,,miner worker,miner,worker,,
+military_worker,,army,military,worker,,
+factory_worker,,factory,worker,,,
+construction_worker,,worker,construction,,,
+domestic_worker,,domestic worker,domestic,,,
+prisioner,,prisioner,,,,
+city_worker,,city worker,worker,,,
+hiv_self_test,,HIV,test,STI,,
+hiv_pos,,HIV,positive,STI,,
+hiv_neg,,HIV,negative,STI,,
+hiv_ind,,HIV,indeterminate,STI,,
+ribbon,,ribbon,,STI,,
+vih_aids,VIH/AIDS,hematology,blood,vih,aids,STI
+symptom,,symptoms,,,,
+alert_triangle,,,,,,
+alert_circle,,,,,,
+alert,,,,,,
+question_triangle,,,,,,
+question_circle,,,,,,
+question,,,,,,
+rdt_result_mixed,,,,,,
+rdt_result_neg,,,,,,
+rdt_result_pv,,,,,,
+rdt_result_pf,,,,,,
+rdt_result_no_test,,,,,,
+happy,,,,,,
+ok,,,,,,
+neutral,,,,,,
+not_ok,,,,,,
+sad,,,,,,
+malaria_negative_microscope,,,,,,
+malaria_mixed_microscope,,,,,,
+malaria_pf_microscope,,,,,,
+malaria_pv_microscope,,,,,,
+ancv,ANC visit,,,,,
+child_program,child program,,,,,
+contraceptive_voucher,contraceptive voucher,,,,,
+imm,Inpatient morbidity and mortality,,,,,
+information_campaign,information campaign,,,,,
+malaria_testing,malaria testing,,,,,
+provider_fst,Provider Follow-up and Support Tool,,,,,
+rmnh,WHO RMNCH Tracker,,,,,
+tb,TB program,,,,,
+church,,,,,,
+helicopter,,,,,,
+small_plane,,,,,,
+drone,,,,,,
+4x4,,,,,,
+2g,,,,,,
+3g,,,,,,
+blood_rh_n,,hematology,blood,blood,rh,negative
+blood_rh_p,,hematology,blood,blood,rh,positive
+blood_a_p,,hematology,blood,blood,a,positive
+blood_a_n,,hematology,blood,blood,a,negative
+blood_b_p,,hematology,blood,blood,b,positive
+blood_b_n,,hematology,blood,blood,b,negative
+blood_ab_p,,hematology,blood,blood,ab,positive
+blood_ab_n,,hematology,blood,blood,ab,negative
+blood_o_p,,hematology,blood,blood,o,positive
+blood_o_n,,hematology,blood,blood,o,negative
+network_4g,,4g,net,transfer,connectivity,
+network_5g,,5g,net,transfer,connectivity,
+agriculture,,agriculture,,,,
+cold_chain,,cold chain,cold,,,
+fever_2,,fever,symptom,diagnosis,,
+running_water,,running water,water,,,
+electricity,,electricity,,,,
+bike,,bike,transport,,,
+basic_motorcycle,,motorcycle,transport,,,
+cross_country_motorcycle,,motorcycle,transport,,,
+vespa_motorcycle,,motorcycle,transport,,,
+donkey,,donkey,transport,,,
+coughing,,coughing,cough,symptom,diagnosis,
+expectorate,,expectorate,symptom,diagnosis,,
+oral_contraception_pillsx28,,female,contraception,reproductive,sexual,treatment
+oral_contraception_pillsx21,,female,contraception,reproductive,sexual,treatment
+emergency_post,,emergency post,emergency,,,
+rural_post,,clinic,refer,rural,health,
+ambulatory_clinic,,ambulatory,refer,health,,
+hospital,,hospital,refer,,,
+market_stall,,market,,,,
+mobile_clinic,,mobile clinic,ambulance,refer,health,transport
+ambulance,,ambulance,transport,,,
+traumatism,,patient,traumatism,,,
+outpatient,,outpatient,patient,,,
+observation,,observation,patient,,,
+inpatient,,patient,inpatient,,,
+hospitalized,,hospitalized,patient,,,
+pave_road,,road,pave,,,
+un_pave_road,,road,pave,,,
+palm_branches_roof,,roof,laton,zinc,,
+proper_roof,,proper,roof,,,
+refused,,refused,treatment,,,
+default,,default,,,,
+rdt_result_invalid,,rdt,result,invalid,diagnosis,
+rdt_result_positive,,rdt,result,positive,diagnosis,
+rdt_result_negative,,rdt,result,negative,diagnosis,
+rdt_result_mixed_invalid,,rdt,result,pv,diagnosis,
+rdt_result_neg_invalid,,rdt,result,neg,diagnosis,invalid
+rdt_result_pf_invalid,,rdt,result,pf,diagnosis,invalid
+rdt_result_pv_invalid,,rdt,result,pv,diagnosis,invalid
+rdt_result_mixed_invalid_rectangular,,rdt,result,mixed,diagnosis,invalid
+rdt_result_neg_invalid_rectangular,,rdt,result,neg,diagnosis,invalid
+rdt_result_pf_invalid_rectangular,,rdt,result,pf,diagnosis,invalid
+rdt_result_mixed_rectangular,,rdt,result,mixed,diagnosis,
+rdt_result_pv_invalid_rectangular,,rdt,result,pv,diagnosis,invalid
+rdt_result_neg_rectangular,,rdt,result,neg,diagnosis,
+rdt_result_pf_rectangular,,rdt,result,pf,diagnosis,
+rdt_result_pv_rectangular,,rdt,result,pv,diagnosis,
+rdt_result_out_stock,,rdt,result,out sock,,
+blister_combined_6_circle_and_1_oval,,blister,treatment,pills,circle,oval
+blister_combined_3_circle_and_1_oval,,blister,treatment,pills,circle,oval
+blister_combined_6_oval_and_1_circle,,blister,treatment,pills,circle,oval
+blister_combined_3_oval_and_1_circle,,blister,treatment,pills,circle,oval
+blister_pills_round_x1,,blister,treatment,pills,round,1
+blister_pills_round_x2,,blister,treatment,pills,round,2
+blister_pills_round_x3,,blister,treatment,pills,round,3
+blister_pills_round_x4,,blister,treatment,pills,round,4
+blister_pills_round_x5,,blister,treatment,pills,round,5
+blister_pills_round_x6,,blister,treatment,pills,round,6
+blister_pills_round_x7,,blister,treatment,pills,round,7
+blister_pills_round_x8,,blister,treatment,pills,round,8
+blister_pills_round_x9,,blister,treatment,pills,round,9
+blister_pills_round_x10,,blister,treatment,pills,round,10
+blister_pills_round_x11,,blister,treatment,pills,round,11
+blister_pills_round_x12,,blister,treatment,pills,round,12
+blister_pills_round_x13,,blister,treatment,pills,round,13
+blister_pills_round_x14,,blister,treatment,pills,round,14
+blister_pills_round_x15,,blister,treatment,pills,round,15
+blister_pills_round_x16,,blister,treatment,pills,round,16
+blister_pills_round_x17,,blister,treatment,pills,round,17
+blister_pills_round_x18,,blister,treatment,pills,round,18
+blister_pills_round_x19,,blister,treatment,pills,round,19
+blister_pills_round_x20,,blister,treatment,pills,round,20
+blister_pills_round_x21,,blister,treatment,pills,round,21
+blister_pills_round_x22,,blister,treatment,pills,round,22
+blister_pills_round_x23,,blister,treatment,pills,round,23
+blister_pills_round_x24,,blister,treatment,pills,round,24
+blister_pills_round_x25,,blister,treatment,pills,round,25
+blister_pills_round_x26,,blister,treatment,pills,round,26
+blister_pills_round_x27,,blister,treatment,pills,round,27
+blister_pills_round_x28,,blister,treatment,pills,round,28
+blister_pills_round_x29,,blister,treatment,pills,round,29
+blister_pills_round_x30,,blister,treatment,pills,round,30
+blister_pills_round_x31,,blister,treatment,pills,round,31
+blister_pills_round_x32,,blister,treatment,pills,round,32
+blister_pills_oval_x1,,blister,treatment,pills,oval,1
+blister_pills_oval_x2,,blister,treatment,pills,oval,2
+blister_pills_oval_x3,,blister,treatment,pills,oval,3
+blister_pills_oval_x4,,blister,treatment,pills,oval,4
+blister_pills_oval_x5,,blister,treatment,pills,oval,5
+blister_pills_oval_x6,,blister,treatment,pills,oval,6
+blister_pills_oval_x7,,blister,treatment,pills,oval,7
+blister_pills_oval_x8,,blister,treatment,pills,oval,8
+blister_pills_oval_x9,,blister,treatment,pills,oval,9
+blister_pills_oval_x10,,blister,treatment,pills,oval,10
+blister_pills_oval_x11,,blister,treatment,pills,oval,11
+blister_pills_oval_x12,,blister,treatment,pills,oval,12
+blister_pills_oval_x13,,blister,treatment,pills,oval,13
+blister_pills_oval_x14,,blister,treatment,pills,oval,14
+blister_pills_oval_x15,,blister,treatment,pills,oval,15
+blister_pills_oval_x16,,blister,treatment,pills,oval,16
+blister_pills_oval_x17,,blister,treatment,pills,oval,17
+blister_pills_oval_x18,,blister,treatment,pills,oval,18
+blister_pills_oval_x19,,blister,treatment,pills,oval,19
+blister_pills_oval_x20,,blister,treatment,pills,oval,20
+blister_pills_oval_x21,,blister,treatment,pills,oval,21
+blister_pills_oval_x22,,blister,treatment,pills,oval,22
+blister_pills_oval_x23,,blister,treatment,pills,oval,23
+blister_pills_oval_x24,,blister,treatment,pills,oval,24
+blister_pills_oval_x25,,blister,treatment,pills,oval,25
+blister_pills_oval_x26,,blister,treatment,pills,oval,26
+blister_pills_oval_x27,,blister,treatment,pills,oval,27
+blister_pills_oval_x28,,blister,treatment,pills,oval,28
+blister_pills_oval_x29,,blister,treatment,pills,oval,29
+blister_pills_oval_x30,,blister,treatment,pills,oval,30
+blister_pills_oval_x31,,blister,treatment,pills,oval,31
+blister_pills_oval_x32,,blister,treatment,pills,oval,32
+stethoscope,,stethoscope,,,,
+blood_pressure_2,,blood,pressure,,,
+blood_pressure_monitor,,blood,pressure,,,
+overweight,,overweight,symptom,diagnosis,patient,
+underweight,,underweight,symptom,diagnosis,patient,
+sti,,Trichomoniasis,STI,symptom,diagnosis,patient
+polygon,,polygon,,,,
+magnifying_glass,,magnifying glass,,,,
+child_under_5,,child,years,patient,,
+child_under_2,,child,years,patient,,
+chills,,chills,symptom,diagnosis,patient,
+headache,,headache,symptom,diagnosis,patient,
+fever_chills,,fever,symptom,diagnosis,chills,patient
+nausea,,nausea,symptom,diagnosis,patient,
+sweating,,sweating,symptom,diagnosis,patient,
+diarrhea,,diarrhea,symptom,diagnosis,patient,
+agriculture_worker,,agriculture,worker,,,
+travel,,travel,,,,
+forest_persons,,forest,persons,,,
+forest,,forest,,,,
+calendar,,calendar,,,,
+justice,,justice,,,,
+megaphone,,megaphone,communication,,,
+communication,,communication,contact,,,
+group_discussion_meeting,,group,communication,contact,meeting,
+group_discussion_meetingx3,,group,communication,contact,meeting,
+group_discussion_meetingx5,,group,communication,contact,meeting,
+phone,,phone,communication,contact,,
+stock_out,,stock,status,,,
+construction,,construction,infrastructure,worker,,
+fever,,fever,symptom,diagnosis,,
+negative,,negative,,,,
+positive,,positive,,,,
+no,,no,,,,
+yes,,yes,,,,
+plantation_worker,,plantation,worker,,,
+stop,,stop,,,,
+security_worker,,worker,cecurity,,,
+referral,,referral,health,patient,,
+water_sanitation,,water,sanitation,,,
+measles,,measles,symptom,diagnosis,patient,
+weight,,weight,,,,
+hpv,,Human papillomavirus,papillomavirus,STI,Sexual Transmitted,diagnosis
+treated_water,,water,infrastructure,treated,,
+health_worker_male,,worker,promoter,male,health,
+health_worker_female,,worker,promoter,female,health,
+nurse_male,,male,nurse,health,worker,
+nurse_female,,female,nurse,health,worker,
+doctor_female,,female,doctor,health,worker,
+doctor_male,,male,doctor,health,worker,
