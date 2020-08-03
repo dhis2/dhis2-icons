@@ -237,54 +237,54 @@ measles,,measles,symptom,diagnosis,patient,
 weight,,weight,,,,
 hpv,,Human papillomavirus,papillomavirus,STI,Sexual Transmitted,diagnosis
 treated_water,,water,infrastructure,treated,,
-wash_hands,,wash,hands,cleaning,water,soap
-wold_care,,world care,earth,nature,protection,
-health_worker,,health,worker,doctor,nurse,
-i_schedule_school_date_time,,school,date,time,schedule,
-officer,,officer,agent,police,cop,
-low_bars,,low,bars,small,poor,
-old_man,,old,man,elderly,aged,
-young_people,,young,juvenile,youth,teens,
-i_training_class,,training,class,teach,board,
-i_documents_accepted,,documents,accepted,done,check,
-high_bars,,high,bars,big,great,
-sanitizer,,sanitizer,cleaner,hands,soap,
-old_woman,,old,woman,elderly,aged,
-low_level,,low,level,small,poor,
-info,,info,advice,instruction,information,
-i_groups_perspective_crowd,,group,crowd,persons,people,
-coins,,money,cash,payment,wealth,
-hazardous,,hazardous,difficult,risky,unsafe,
-heart,,heart,love,core,favorite,
-person,,people,man,woman,person,
-i_exam_multiple_choice,,exam,multiple choice,test,quiz,
-peace,,peace,accord,truce,love,
-i_documents_denied,,documents,denied,refuse,bad,
-machinery,,machinery,engine,excavator,vehicle,
-clean_hands,,clean,hands,washing,soap,sanitizer
-i_exam_qualification,,exam,qualification,notes,test,
-city,,city,building,house,edifice,architecture
-prisoner,,prisoner,captive,convict,detainee,justice
-health_worker_form,,health worker,form,quiz,questionnaire,
-eco_care,,eco,care,world,nature,bio
-virus,,corona,virus,covid,19,
-contact_support,,contact,support,info,question,
-elderly,,aged,aging,old,person,people
-social_distancing,,social,distancing,distance,separation,
-nurse,,nurse,doctor,health,medic,assistant
-medium_bars,,medium,bars,average,common,normal
-bills,,bills,money,bank notes,currency,buck
-i_utensils,,utensils,school,education,pen,ruler
-mask,,mask,virus,face mask,ffp,
-high_level,,high,level,big,great,
-war,,war,tank,conflict,battle,armed
-child_care,,child,care,baby,kid,toddler
-money_bag,,money,bag,currency,dollar,cash
-people,,people,person,group,crowd,community
-home,,home,apartment,house,place,cabin
-doctor,,doctor,health,worker,nurse,medical person
-forum,,forum,conversation,chat,discussion,
-i_note_action,,notes,write,document,homework,assignment
-credit_card,,credit,card,debit,money,bank
-medium_level,,medium,level,average,common,normal
-i_certificate_paper,,certificate,credential,diploma,qualification,education
+wash_hands,Wash hands,wash,hands,cleaning,water,soap
+wold_care,World care,world care,earth,nature,protection,
+health_worker,Health worker,health,worker,doctor,nurse,
+i_schedule_school_date_time,Schedule,school,date,time,schedule,
+officer,Officer,officer,agent,police,cop,
+low_bars,Low bars,low,bars,small,poor,
+old_man,Old man,old,man,elderly,aged,
+young_people,Young people,young,juvenile,youth,teens,
+i_training_class,Training,training,class,teach,board,
+i_documents_accepted,Documents accepted,documents,accepted,done,check,
+high_bars,High bars,high,bars,big,great,
+sanitizer,Sanitizer,sanitizer,cleaner,hands,soap,
+old_woman,Old woman,old,woman,elderly,aged,
+low_level,Low level,low,level,small,poor,
+info,Info,info,advice,instruction,information,
+i_groups_perspective_crowd,Crowd,group,crowd,persons,people,
+coins,Money,money,cash,payment,wealth,
+hazardous,Hazardous,hazardous,difficult,risky,unsafe,
+heart,Heart,heart,love,core,favorite,
+person,Person,people,man,woman,person,
+i_exam_multiple_choice,Test,exam,multiple choice,test,quiz,
+peace,Peace,peace,accord,truce,love,
+i_documents_denied,Documents denied,documents,denied,refuse,bad,
+machinery,Machinery,machinery,engine,excavator,vehicle,
+clean_hands,Clean hands,clean,hands,washing,soap,sanitizer
+i_exam_qualification,Exam qualification,exam,qualification,notes,test,
+city,City,city,building,house,edifice,architecture
+prisoner,Prisoner,prisoner,captive,convict,detainee,justice
+health_worker_form,Health worker form,health worker,form,quiz,questionnaire,
+eco_care,Eco care,eco,care,world,nature,bio
+virus,Coronavirus,corona,virus,covid,19,
+contact_support,Contact support,contact,support,info,question,
+elderly,Elderly,aged,aging,old,person,people
+social_distancing,Social distancing,social,distancing,distance,separation,
+nurse,Nurse,nurse,doctor,health,medic,assistant
+medium_bars,Medium bars,medium,bars,average,common,normal
+bills,Bills,bills,money,bank notes,currency,buck
+i_utensils,School utensils,utensils,school,education,pen,ruler
+mask,Face mask,mask,virus,face mask,ffp,
+high_level,High level,high,level,big,great,
+war,Conflict,war,tank,conflict,battle,armed
+child_care,Children,child,care,baby,kid,toddler
+money_bag,Money bag,money,bag,currency,dollar,cash
+people,People,people,person,group,crowd,community
+home,Home,home,apartment,house,place,cabin
+doctor,Doctor,doctor,health,worker,nurse,medical person
+forum,Forum,forum,conversation,chat,discussion,
+i_note_action,Homework,notes,write,document,homework,assignment
+credit_card,Credit card,credit,card,debit,money,bank
+medium_level,Medium level,medium,level,average,common,normal
+i_certificate_paper,Certification,certificate,credential,diploma,qualification,education
