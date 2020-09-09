@@ -26,9 +26,13 @@ baby_female_0203m,,baby,male,2-3 months,pediatric,
 baby_female_0306m,,baby,male,3-6 months,pediatric,
 baby_female_0609m,,baby,male,6-9 months,pediatric,
 boy_0105y,,boy,1-5 Yrs,,,
+boy_0510y,,boy,5-10 Yrs,,,
 boy_1015y,,boy,10-15 Yrs,,,
+boy_1525y,,boy,15-25 Yrs,,,
 girl_0105y,,girl,1-5 Yrs,,,
+girl_0510y,,girl,5-10 Yrs,,,
 girl_1015y,,girl,10-15 Yrs,,,
+girl_1525y,,girl,15-25 Yrs,,,
 fetus,,not born,baby,,,
 lactation,,baby,ANC,child,pediatric,
 llin,,llin,malaria,net,,
@@ -84,6 +88,7 @@ military_worker,,army,military,worker,,
 factory_worker,,factory,worker,,,
 construction_worker,,worker,construction,,,
 domestic_worker,,domestic worker,domestic,,,
+prisioner,,prisioner,,,,
 city_worker,,city worker,worker,,,
 hiv_self_test,,HIV,test,STI,,
 hiv_pos,,HIV,positive,STI,,
@@ -103,11 +108,11 @@ rdt_result_neg,,,,,,
 rdt_result_pv,,,,,,
 rdt_result_pf,,,,,,
 rdt_result_no_test,,,,,,
-happy,,,,,,
-ok,,,,,,
-neutral,,,,,,
-not_ok,,,,,,
-sad,,,,,,
+happy,,face,,,,
+ok,,face,,,,
+neutral,,face,,,,
+not_ok,,face,,,,
+sad,,face,,,,
 malaria_negative_microscope,,,,,,
 malaria_mixed_microscope,,,,,,
 malaria_pf_microscope,,,,,,
@@ -188,14 +193,74 @@ rdt_result_neg_rectangular,,rdt,result,neg,diagnosis,
 rdt_result_pf_rectangular,,rdt,result,pf,diagnosis,
 rdt_result_pv_rectangular,,rdt,result,pv,diagnosis,
 rdt_result_out_stock,,rdt,result,out sock,,
+blister_combined_6_circle_and_1_oval,,blister,treatment,pills,circle,oval
+blister_combined_3_circle_and_1_oval,,blister,treatment,pills,circle,oval
+blister_combined_6_oval_and_1_circle,,blister,treatment,pills,circle,oval
+blister_combined_3_oval_and_1_circle,,blister,treatment,pills,circle,oval
 blister_pills_round_x1,,blister,treatment,pills,round,1
+blister_pills_round_x2,,blister,treatment,pills,round,2
+blister_pills_round_x3,,blister,treatment,pills,round,3
 blister_pills_round_x4,,blister,treatment,pills,round,4
+blister_pills_round_x5,,blister,treatment,pills,round,5
+blister_pills_round_x6,,blister,treatment,pills,round,6
+blister_pills_round_x7,,blister,treatment,pills,round,7
+blister_pills_round_x8,,blister,treatment,pills,round,8
+blister_pills_round_x9,,blister,treatment,pills,round,9
+blister_pills_round_x10,,blister,treatment,pills,round,10
+blister_pills_round_x11,,blister,treatment,pills,round,11
+blister_pills_round_x12,,blister,treatment,pills,round,12
+blister_pills_round_x13,,blister,treatment,pills,round,13
 blister_pills_round_x14,,blister,treatment,pills,round,14
+blister_pills_round_x15,,blister,treatment,pills,round,15
 blister_pills_round_x16,,blister,treatment,pills,round,16
+blister_pills_round_x17,,blister,treatment,pills,round,17
+blister_pills_round_x18,,blister,treatment,pills,round,18
+blister_pills_round_x19,,blister,treatment,pills,round,19
+blister_pills_round_x20,,blister,treatment,pills,round,20
+blister_pills_round_x21,,blister,treatment,pills,round,21
+blister_pills_round_x22,,blister,treatment,pills,round,22
+blister_pills_round_x23,,blister,treatment,pills,round,23
+blister_pills_round_x24,,blister,treatment,pills,round,24
+blister_pills_round_x25,,blister,treatment,pills,round,25
+blister_pills_round_x26,,blister,treatment,pills,round,26
+blister_pills_round_x27,,blister,treatment,pills,round,27
+blister_pills_round_x28,,blister,treatment,pills,round,28
+blister_pills_round_x29,,blister,treatment,pills,round,29
+blister_pills_round_x30,,blister,treatment,pills,round,30
+blister_pills_round_x31,,blister,treatment,pills,round,31
+blister_pills_round_x32,,blister,treatment,pills,round,32
 blister_pills_oval_x1,,blister,treatment,pills,oval,1
+blister_pills_oval_x2,,blister,treatment,pills,oval,2
+blister_pills_oval_x3,,blister,treatment,pills,oval,3
 blister_pills_oval_x4,,blister,treatment,pills,oval,4
+blister_pills_oval_x5,,blister,treatment,pills,oval,5
+blister_pills_oval_x6,,blister,treatment,pills,oval,6
+blister_pills_oval_x7,,blister,treatment,pills,oval,7
+blister_pills_oval_x8,,blister,treatment,pills,oval,8
+blister_pills_oval_x9,,blister,treatment,pills,oval,9
+blister_pills_oval_x10,,blister,treatment,pills,oval,10
+blister_pills_oval_x11,,blister,treatment,pills,oval,11
+blister_pills_oval_x12,,blister,treatment,pills,oval,12
+blister_pills_oval_x13,,blister,treatment,pills,oval,13
 blister_pills_oval_x14,,blister,treatment,pills,oval,14
+blister_pills_oval_x15,,blister,treatment,pills,oval,15
 blister_pills_oval_x16,,blister,treatment,pills,oval,16
+blister_pills_oval_x17,,blister,treatment,pills,oval,17
+blister_pills_oval_x18,,blister,treatment,pills,oval,18
+blister_pills_oval_x19,,blister,treatment,pills,oval,19
+blister_pills_oval_x20,,blister,treatment,pills,oval,20
+blister_pills_oval_x21,,blister,treatment,pills,oval,21
+blister_pills_oval_x22,,blister,treatment,pills,oval,22
+blister_pills_oval_x23,,blister,treatment,pills,oval,23
+blister_pills_oval_x24,,blister,treatment,pills,oval,24
+blister_pills_oval_x25,,blister,treatment,pills,oval,25
+blister_pills_oval_x26,,blister,treatment,pills,oval,26
+blister_pills_oval_x27,,blister,treatment,pills,oval,27
+blister_pills_oval_x28,,blister,treatment,pills,oval,28
+blister_pills_oval_x29,,blister,treatment,pills,oval,29
+blister_pills_oval_x30,,blister,treatment,pills,oval,30
+blister_pills_oval_x31,,blister,treatment,pills,oval,31
+blister_pills_oval_x32,,blister,treatment,pills,oval,32
 stethoscope,,stethoscope,,,,
 blood_pressure_2,,blood,pressure,,,
 blood_pressure_monitor,,blood,pressure,,,
@@ -204,6 +269,8 @@ underweight,,underweight,symptom,diagnosis,patient,
 sti,,Trichomoniasis,STI,symptom,diagnosis,patient
 polygon,,polygon,,,,
 magnifying_glass,,magnifying glass,,,,
+child_under_5,,child,years,patient,,
+child_under_2,,child,years,patient,,
 chills,,chills,symptom,diagnosis,patient,
 headache,,headache,symptom,diagnosis,patient,
 fever_chills,,fever,symptom,diagnosis,chills,patient
@@ -220,6 +287,7 @@ megaphone,,megaphone,communication,,,
 communication,,communication,contact,,,
 group_discussion_meeting,,group,communication,contact,meeting,
 group_discussion_meetingx3,,group,communication,contact,meeting,
+group_discussion_meetingx5,,group,communication,contact,meeting,
 phone,,phone,communication,contact,,
 stock_out,,stock,status,,,
 construction,,construction,infrastructure,worker,,
@@ -237,6 +305,12 @@ measles,,measles,symptom,diagnosis,patient,
 weight,,weight,,,,
 hpv,,Human papillomavirus,papillomavirus,STI,Sexual Transmitted,diagnosis
 treated_water,,water,infrastructure,treated,,
+health_worker_male,,worker,promoter,male,health,
+health_worker_female,,worker,promoter,female,health,
+nurse_male,,male,nurse,health,worker,
+nurse_female,,female,nurse,health,worker,
+doctor_female,,female,doctor,health,worker,
+doctor_male,,male,doctor,health,worker,
 wash_hands,Wash hands,wash,hands,cleaning,water,soap
 wold_care,World care,world care,earth,nature,protection,
 health_worker,Health worker,health,worker,doctor,nurse,
