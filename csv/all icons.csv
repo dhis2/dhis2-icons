@@ -237,8 +237,6 @@ measles,,measles,symptom,diagnosis,patient,
 weight,,weight,,,,
 hpv,,Human papillomavirus,papillomavirus,STI,Sexual Transmitted,diagnosis
 treated_water,,water,infrastructure,treated,,
-doctor_female,,female,doctor,health,worker,
-doctor_male,,male,doctor,health,worker,
 wash_hands,Wash hands,wash,hands,cleaning,water,soap
 wold_care,World care,world care,earth,nature,protection,
 health_worker,Health worker,health,worker,doctor,nurse,
