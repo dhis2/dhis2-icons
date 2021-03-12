@@ -289,3 +289,11 @@ credit_card,Credit card,credit,card,debit,money,bank
 medium_level,Medium level,medium,level,average,common,normal
 i_certificate_paper,Certification,certificate,credential,diploma,qualification,education
 dhis2_logo,DHIS2,dhis2,logo,DHIS,,
+breeding_sites,Breeding sites,malaria,mosquito,pupa,larva,reproduction
+cone_test_on_nets,Cone test on nets,cone,test,nets,malaria,analysis
+cone_test_on_walls,Cone test on walls,cone,test,wall,malaria,analysis
+insecticide_resistance,Insecticide resistance,mosquito,malaria,insecticide,resistance,
+discriminating_concentration_bioassays,Discriminating concentration bioassays,concentration,assay,analysis,malaria,mosquito
+intensity_concentration_bioassays,Intensity concentration bioassays,concentration,assay,analysis,malaria,mosquito
+synergist_insecticide_bioassays,Synergist insecticide bioassays,chemical,assay,analysis,malaria,mosquito
+mosquito_collection,Mosquito collection,mosquito,malaria,collection,case,gather
